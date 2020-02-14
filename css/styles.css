@@ -1,0 +1,22 @@
+h1 {color: Purple;
+  font-weight: bold;
+}
+body {
+  font-family: serif;
+  background: url("../ghana.jpg");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh
+}
+.ima {
+  float: right;
+}
+h2 {
+  color: purple;
+  font-weight: bold;
+}
+.container {
+  background: rgba(255,255,255, .3)
+}
